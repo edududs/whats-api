@@ -1,4 +1,4 @@
-## Whatscrapping
+## whats-api
 
 A small Python client to interact with the Evolution API (WhatsApp) for fetching chats/messages and sending text.
 
